@@ -1,6 +1,7 @@
 {
     "name": "ninja/db",
     "description": "this is a object relational database connection making and database creation simple library for php web application creation",
+    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -15,8 +16,9 @@
             "email": "danukajihansanath0408@gmail.com"
         }
     ],
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
-        "doctrine/annotations": "^2.0"
+        "doctrine/annotations": "^2.0.2"
     }
 }

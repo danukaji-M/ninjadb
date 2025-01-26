@@ -1,6 +1,6 @@
 <?php
 
-namespace Ninja\Core;
+namespace Ninja\Database\Core;
 
 use Reflection;
 use ReflectionClass;
