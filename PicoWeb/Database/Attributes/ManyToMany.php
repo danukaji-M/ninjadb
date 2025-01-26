@@ -1,6 +1,6 @@
 <?php
 
-namespace Ninja\Database\Attributes;
+namespace PicoWeb\Database\Attributes;
 
 /**
  * Attribute to define a Many-to-Many relationship between entities.

@@ -1,6 +1,6 @@
 <?php
 
-namespace Ninja\Database\Core;
+namespace PicoWeb\Database\Core;
 
 use PDO;
 

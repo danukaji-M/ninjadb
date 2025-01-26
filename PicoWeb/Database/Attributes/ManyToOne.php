@@ -1,6 +1,6 @@
 <?php
 
-namespace Ninja\Database\Attributes;
+namespace PicoWeb\Database\Attributes;
 /**
  * Represents a Many-to-One relationship attribute.
  * 

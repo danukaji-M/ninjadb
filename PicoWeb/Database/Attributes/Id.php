@@ -1,6 +1,6 @@
 <?php
 
-namespace Ninja\Database\Attributes;
+namespace PicoWeb\Database\Attributes;
 
 /**
  * The Id attribute class is used to define the primary key of an entity.

@@ -1,6 +1,6 @@
 <?php 
 
-namespace Ninja\Database\Attributes;
+namespace PicoWeb\Database\Attributes;
 
 /**
  * The GeneratedValue attribute class is used to define the generation strategy for the primary key of an entity.

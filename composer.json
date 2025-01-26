@@ -1,13 +1,12 @@
 {
-    "name": "ninja/db",
+    "name": "picoweb/db",
     "description": "this is a object relational database connection making and database creation simple library for php web application creation",
     "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Ninja\\": "Ninja/",
-            "Database\\":"Database/"
+            "PicoWeb\\": "PicoWeb/"
         }
     },
     "authors": [

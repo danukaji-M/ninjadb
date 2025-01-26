@@ -1,5 +1,5 @@
 <?php
-namespace Ninja\Database\Attributes;
+namespace PicoWeb\Database\Attributes;
 
 /**
  * The Entity attribute class is used to define an entity with a specific name.
